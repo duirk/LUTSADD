@@ -1,5 +1,5 @@
 el video a modificar 1.mp4 el video a aplicar 2.mp4 y junto a su pt
-
+rename movie hancock.pt to checkpoint_epoch_50.pt to directory ./imagenes
 
 Video to modify: 1.mp4
 Video to apply: 2.mp4
